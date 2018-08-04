@@ -13,3 +13,6 @@ build/vendors.js
 # System Files
 .DS_store
 DS_store
+
+# error logs
+yarn-error.log
